@@ -127,5 +127,5 @@ cv2.imshow('Cropped',Cropped)
 cv2.waitKey(0)
 
 # cv2.destroyAllWindows() simply destroys all the windows we created.
-# If you want to destroy any specific window, use the function cv2.destroyWindow() where you pass the exact window name as the argument.
+# If you want to destroy any specific window, use the function cv2.destroyWindow() where you pass the exact window name as the argument...
 cv2.destroyAllWindows()
